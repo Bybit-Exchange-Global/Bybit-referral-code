@@ -86,3 +86,26 @@
 
 <h2>Ready to Start?</h2>
 <p>👉 <a href="https://partner.bybit.com/b/bet666">Register with Bybit using BET666 Today</a><br>Join millions of traders who choose Bybit for fast, secure, and rewarding crypto trading.</p>
+
+# 🌍 Bybit Referral Code - Multilingual Guide
+
+Welcome to the Bybit Referral Code repository!
+
+Please select your preferred language:
+
+- 🇯🇵 [Japan](./ja/README.md)
+- 🇫🇷 [France](./fr/README.md)
+- 🇮🇹 [Italia](./it/README.md)
+- 🇺🇸 [English](./en/README.md)
+- 🇪🇸 [Español (Internacional)](./es/README.md)
+- 🇵🇱 [Polski](./pl/README.md)
+- 🇵🇹 [Português ](./pt/README.md)
+- 🇷🇺 [Русский](./ru/README.md)
+- 🇹🇷 [Türkçe](./tr/README.md)
+- 🇹🇭 [ไทย](./th/README.md)
+- 🇺🇦 [Українська](./uk/README.md)
+- 🇸🇦 [العربيه](./ar/README.md)
+- 🇯🇵 [日本語](./ja/README.md)
+- 🇹🇼 [繁體中文](./zh/README.md)
+- 🇩🇪 [German](./de/README.md)
+- Ko [Korean](./ko/README.md)
